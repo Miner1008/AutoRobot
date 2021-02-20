@@ -1,0 +1,25 @@
+show
+turnleft 1
+move 1
+move 1
+move 1
+turnright 1
+turnright 2
+move 2
+turnright 2
+move 2
+move 2
+turnleft 3
+move 3
+move 3
+turnright 4
+move 4
+move 4
+move 4
+move 5
+move 5
+move 5 
+turnright 5
+within 6
+travelled
+show
